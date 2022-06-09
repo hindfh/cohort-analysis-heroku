@@ -1,0 +1,3 @@
+[console_scripts]
+dashtools = dashtools.cli.cli:main
+
